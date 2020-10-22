@@ -1,5 +1,3 @@
-package Datastructures;
-
 public class MyStack<E> {
 
 	private MylinkedList<E> stack=new MylinkedList<>();
