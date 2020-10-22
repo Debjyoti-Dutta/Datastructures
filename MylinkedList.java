@@ -1,4 +1,3 @@
-package Datastructures;
 public class MylinkedList<E> {
 
 	 static class Node<E>
